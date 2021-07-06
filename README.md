@@ -1,7 +1,7 @@
-- Hi, I’m @fallenthedev
-- I'm a tween developer 
-- I like to make Python scripts, and minecraft mods
-- Hit me up on discord fallen#6969 if you have any more questions
+- Hi, I’m Dominic
+- I'm a 13 developer 
+- I like to make Python scripts, and minecraft mods and Mods for BeatSaber, Gorillatag and Payday 2.
+- Hit me up on discord Dominic#8008 if you have any more questions
 
 <!---
 fallenthedev/fallenthedev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
