@@ -11,6 +11,7 @@ Hi there 👋 I'm MrMonke7 but you can call me Dominic 😀
 💬 Ask me about anything
 
 🎉 Fun fact: I love playing baseball and VR games.
+
 ![](https://visitor-badge.laobi.icu/badge?page_id=MrMonke7.MrMonke7)
 
 [![Github](https://img.shields.io/github/followers/MrMonke7?label=Follow&style=social)](https://github.com/CharalambosIoannou)
