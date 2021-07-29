@@ -1,4 +1,4 @@
-Hi there 👋 I'm Baseballdom7 but you can call me Dominic 😀
+Hi there 👋 I'm LetMeDominic but you can call me Dominic 😀
 
 🎓 I'm an 13 year old software developer
 
@@ -12,10 +12,10 @@ Hi there 👋 I'm Baseballdom7 but you can call me Dominic 😀
 
 🎉 Fun fact: I love playing baseball and VR games.
 
-![](https://visitor-badge.laobi.icu/badge?page_id=Baseballdom7.Baseballdom7)
+![](https://visitor-badge.laobi.icu/badge?page_id=LetMeDominic.LetMeDominic)
 
-[![Github](https://img.shields.io/github/followers/Baseballdom7?label=Follow&style=social)](https://github.com/Baseballdom7)
+[![Github](https://img.shields.io/github/followers/LetMeDominic?label=Follow&style=social)](https://github.com/LetMeDominic)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Baseballdom7&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=LetMeDominic&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Baseballdom7&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LetMeDominic&theme=tokyonight)
