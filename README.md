@@ -12,7 +12,7 @@ Hi there 👋 I'm LetMeDominic but you can call me Dominic 😀
 
 🎉 Fun fact: I love playing baseball and VR games.
 
-![](https://visitor-badge.laobi.icu/badge?page_id=LetMeDominic.LetMeDominic)
+![](https://visitor-badge.laobi.icu/badge?page_id=LetMeDomimic.LetMeDomimic)
 
 [![Github](https://img.shields.io/github/followers/LetMeDominic?label=Follow&style=social)](https://github.com/LetMeDominic)
 
